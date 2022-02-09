@@ -14,7 +14,7 @@
             //let us check data of this id exist or not 
             if($count == 1)
             {
-               // echo "hello";
+                echo "hello";
                 $rows=mysqli_fetch_assoc($res);
                 $user_name=$rows['user_name'];
                 $full_name=$rows['full_name'];
