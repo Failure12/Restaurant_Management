@@ -2,7 +2,7 @@
 
 This is my first web application. This is not implemented till now. It is being implemented. I have started to build this app on 28/1/2022.
 Languages: 
-HTML,PHP, CSS,JS,SQL have been used for this app. HTML and CSS are for the fronten. And PHP,SQL is for the beckand.
+HTML,PHP, CSS,JS,SQL have been used for this app. HTML and CSS are for the frontend. And PHP,SQL is for the beckand.
 
 Features:
 
